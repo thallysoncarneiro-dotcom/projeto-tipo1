@@ -1,0 +1,78 @@
+head{margin: 10px;}
+body{background-color:rgb(255, 255, 255);}
+	h1
+	{background-color: rgb(6, 97, 3) ;
+	position: center;
+	font-family: Georgia, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 40px;
+}
+	tr{background-color:white ;}
+	td{background-color: #008000a1 ;}
+	h2{max-width: 500px;
+		width: 250px;
+		overflow:hidden;
+	    text-overflow: ellipsis;
+		white-space: nowrap;}
+	button{
+	nave{background-color: #000000a1 ;
+	position: relative;
+	display: flex;}
+	carne{background-color:#3f0000;
+	 tr{background-color:brown ;}
+	}
+}
+	.pag-CA{background-color:rgb(255, 255, 255);
+     tr{background-color:brown ;}
+	td{background-color: #a5001c ;}
+	h1
+	{background-color: rgb(255, 1, 1) ;
+	position: center;
+	font-family: Georgia, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 40px;
+	}
+}
+nav{background-color: #008000a1 ;
+	position: top,justify;
+	display: flex;
+	}
+li.E{
+	margin: 10px;
+	}
+ul{
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	}
+style
+	{background-color: #000000a1 ;
+	position: top,justify;
+	display: flex;
+}
+
+	footer
+	{
+		background-color: #01fa01a1 ;
+		position:sticky;
+		bottom: 0%;
+		width: 100%;
+		padding: 10px 0;
+		margin-top: 20px;
+
+}
+	PAG-FR
+	{background-color:rgb(255, 255, 255);
+	 tr{background-color:rgb(21, 255, 0) ;
+	}
+	td{background-color: #46e946 ;
+	}
+	h1
+	{background-color: rgb(43, 255, 0) ;
+	position: center;
+	font-family: Georgia, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 40px;
+    }
+}
